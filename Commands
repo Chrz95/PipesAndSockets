@@ -1,0 +1,42 @@
+ls -la | wc | wc
+ls -la ; rm -rf 'dir'
+ls
+ls -l
+cat Commands
+end
+wc
+cut -d - -f1 a.txt | tr 'a' 'x' | tr 'x' 'c'
+grep "cat" Commands
+grep "cat" Commands | wc
+ls -la | wc | wc
+ls -la ; rm -rf 'dir'
+end
+ls
+grep "cat" Commands | tr 'c' 'a'
+ls -l
+cat Commands
+grep "cat" Commands
+grep "cat" Commands | wc
+ls -la | wc | wc
+ls -la ; rm -rf 'dir'
+grep "cat" Commands
+grep "cat" Commands | wc
+ls -la | wc | wc
+ls -la ; rm -rf 'dir'
+grep "cat" Commands
+grep "cat" Commands | wc
+ls -la | wc | wc
+ls -la ; rm -rf 'dir'
+grep "cat" Commands
+grep "cat" Commands | wc
+ls -la | wc | wc
+ls -la ; rm -rf 'dir'
+timeToStop
+wc
+ls -la ; rm -rf 'dir'
+ls
+ls -l
+cat Commands
+wc
+cat Commands
+ls

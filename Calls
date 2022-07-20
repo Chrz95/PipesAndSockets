@@ -1,0 +1,2 @@
+./remoteClient 0.0.0.0 8080 8081 Commands
+./remoteServer 8080 2
